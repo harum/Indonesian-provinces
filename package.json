@@ -1,6 +1,6 @@
 {
   "name": "indonesian-provinces",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "List of Indonesian provinces and city",
   "main": "src/index.js",
   "scripts": {
