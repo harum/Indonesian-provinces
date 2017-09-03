@@ -1,10 +1,10 @@
 {
   "name": "indonesian-provinces",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "List of Indonesian provinces and city",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/harum/Indonesian-provinces/issues"
   },
-  "homepage": "https://github.com/harum/Indonesian-provinces#readme"
+  "homepage": "https://github.com/harum/Indonesian-provinces#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
 }
